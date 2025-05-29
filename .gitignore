@@ -1,0 +1,26 @@
+# Ignore build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore Rider IDE folder (optional)
+.idea/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build logs and crash dumps
+*.log
+*.tlog
+*.bak
+*.dmp
+
+# Ignore generated files by tools
+Generated_Code/
